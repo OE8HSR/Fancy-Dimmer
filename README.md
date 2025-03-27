@@ -4,6 +4,7 @@ The Fancy-Dimmer is "designed" to dim LED Flatpanels.\
 **Input:** 12Vdc (10V-14,4V)\
 **Output:** 12V PWM\
 **PWM-Frequency:** 50kHz (Programable)\
+**Imax: 5A**\
 Potentiometer controlled\
 3 x "programable" Presets\
 Programable via UPDI\
