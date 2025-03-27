@@ -8,4 +8,4 @@ Potentiometer controlled\
 3 x "programable" Presets\
 Programable via UPDI\
 \
-No Protorype of Code is finished yet. This is at the moment completely untested and might contain errors...\
+No Protorype of Code is finished yet. This is at the moment completely untested and might contain errors...
