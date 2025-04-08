@@ -138,7 +138,7 @@
         "min_track_width": 0.0,
         "min_via_annular_width": 0.1,
         "min_via_diameter": 0.5,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -510,9 +510,9 @@
       "idf": "",
       "netlist": "",
       "plot": "nextpcb/gerber/",
-      "pos_files": "",
+      "pos_files": "bom/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "attiny_pwm.step",
       "svg": "",
       "vrml": ""
     },
